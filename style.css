@@ -1,0 +1,19 @@
+.margin{
+    margin-top: 50px !important;
+}
+.bor{
+    border: 1px solid black !important;
+}
+.margin-0{
+    margin-top: 30px !important;
+    text-align: center !important;
+}
+
+main{
+    height: 100vh !important;
+    background-image: linear-gradient(rgba(1,1,1,0),rgb(1,1,0))  ,url('Stopwatch.jpg');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
